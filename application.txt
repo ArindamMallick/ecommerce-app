@@ -1,0 +1,13 @@
+
+APPLICATION: Employee Management
+STATUS: RUNNING
+LOGIN: WORKING
+
+------------------------------
+APPLICATION CONFIGURATION
+------------------------------
+
+VERSION: 1.0
+ENVIRONMENT: Production
+
+
