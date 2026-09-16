@@ -10,4 +10,24 @@ APPLICATION CONFIGURATION
 VERSION: 1.0
 ENVIRONMENT: Production
 
+***************************************************
+Add Employe module
+
+APPLICATION: Employee Management
+STATUS: RUNNING
+LOGIN: WORKING
+
+------------------------------
+APPLICATION CONFIGURATION
+------------------------------
+
+VERSION: 1.1
+ENVIRONMENT: Production
+
+------------------------------
+EMPLOYEE MODULE
+------------------------------
+
+EMPLOYEE_MODULE: Enabled
+EMPLOYEE_SEARCH: Enabled
 
