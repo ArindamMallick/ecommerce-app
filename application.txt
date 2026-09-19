@@ -16,7 +16,6 @@ Add Employe module
 APPLICATION: Employee Management
 STATUS: RUNNING
 LOGIN: WORKING
-AUTHENTICATION: Standard
 
 ------------------------------
 APPLICATION CONFIGURATION
